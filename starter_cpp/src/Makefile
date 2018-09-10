@@ -48,6 +48,17 @@ CPP_FILES =\
 	string.cpp\
 	supervised.cpp\
 	vec.cpp\
+	preprocess.cpp\
+	nomcat.cpp\
+	normalizer.cpp\
+	svg.cpp\
+	imputer.cpp\
+	backpropagation.cpp\
+	time_series_prediction.cpp\
+	dynamical_system.cpp\
+	hypothyroid.cpp\
+	dynamical_system.cpp\
+	
 
 ################
 # Lists
