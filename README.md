@@ -1,3 +1,6 @@
 # Artificial Neural Networks Implementations
-- Built artificial neural networks in C++. Trained and tested a convolutional neural network model with MNIST dataset and achieved 96.4% accuracy.
-- Trained a dynamical system model which consists of a generative neural network with unsupervised learning and a neural network with supervised learning. This model is able to generate images of a crane system that moves with two degrees of freedom.
+- Linear Regression (house price prediction)
+- Artificial Neural Networks (more hidden units)
+- Converlutional Neural Networks (trained and tested with MNIST dataset and achieved 96.4% accuracy.)
+- L1 and L2 Regulations (Comparisons shown in RegulationsChart.png)
+- Dynamical System (the dynamical system consists of a generative neural network with unsupervised learning and a neural network with supervised learning. This model is able to generate images of a crane system that moves with two degrees of freedom.)
